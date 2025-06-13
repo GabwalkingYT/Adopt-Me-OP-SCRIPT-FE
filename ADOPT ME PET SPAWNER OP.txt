@@ -36,7 +36,6 @@ end)
 
 -- Editable TextBox for pet name
 local petBox = Instance.new("TextBox", frame)
-petBox.Text = "Spawn Any Pets"
 petBox.Size = UDim2.new(0.8, 0, 0, 40)
 petBox.Position = UDim2.new(0.1, 0, 0.2, 0)
 petBox.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
